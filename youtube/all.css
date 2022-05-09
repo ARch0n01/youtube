@@ -1,0 +1,13 @@
+body{
+    font-family: roboto,Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding-top: 82px;
+    padding-left: 95px;
+    padding-bottom: 5px;
+    background-color: rgb(249, 249, 249);
+    
+}
+.point:hover{
+    cursor: pointer;
+}
+
