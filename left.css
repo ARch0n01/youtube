@@ -1,0 +1,38 @@
+.lefthead{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 55px;
+    display: grid;
+    grid-template-rows:  75px 75px 75px 75px 75px 75px;
+    background-color: white;
+    width: 70px;
+    z-index: 400s;
+    
+}
+.button{
+    width: 70px;
+    height: 72px;
+    background-color: white;
+    border: none;
+    margin-top:10px;
+}
+.button:hover{
+    background-color: rgb(240, 240, 240);
+    cursor:pointer;
+}
+.licon{
+    height: 30px;
+    width: 45%;
+    
+}
+.para{
+    margin-top: 0px;
+    font-size: 10px;
+    
+}
+#ymusic{
+    width: 70px;
+    text-indent: -8px;
+    word-spacing: -1px;
+}
